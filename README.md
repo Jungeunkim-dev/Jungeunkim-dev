@@ -7,8 +7,6 @@
 
 # Back-End Developer 💡
 
-널리 쓰이는, 그리고 누구나 아는 플랫폼 개발을 목표로 하고 있습니다. 
-
  ## Stack
 
 - Spring Framework
